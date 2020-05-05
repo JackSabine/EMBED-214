@@ -768,7 +768,7 @@ F 1 "2N2222A" H 9491 5395 50  0000 L CNN
 F 2 "" H 9500 5450 50  0001 C CNN
 F 3 "~" H 9300 5350 50  0001 C CNN
 	1    9300 5350
-	-1   0    0    1   
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:D_Zener D5
