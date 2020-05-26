@@ -1,3 +1,5 @@
 (sym_lib_table
   (lib (name BQ24650)(type Legacy)(uri ${KIPRJMOD}/BQ24650.lib)(options "")(descr ""))
+  (lib (name BatteryCharger-rescue)(type Legacy)(uri ${KIPRJMOD}/BatteryCharger-rescue.lib)(options "")(descr ""))
+  (lib (name DualChannelMOSFET)(type Legacy)(uri ${KIPRJMOD}/DualChannelMOSFET.lib)(options "")(descr ""))
 )
